@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ananya1826
+- 👋 Hi, I’m ana
 - 👀 I’m interested in data analytics and business operations
 - 🌱 I’m currently learning python
 
